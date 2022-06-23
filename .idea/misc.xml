@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ibrahim.hassani/AndroidStudioProjects/ContactsApp/app/src/main/res/drawable/happy_face.xml" value="0.2265" />
         <entry key="..\:/Users/ibrahim.hassani/AndroidStudioProjects/ContactsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/ibrahim.hassani/AndroidStudioProjects/ContactsApp/app/src/main/res/drawable/neutral_face.xml" value="0.2265" />
+        <entry key="..\:/Users/ibrahim.hassani/AndroidStudioProjects/ContactsApp/app/src/main/res/drawable/sad_face.xml" value="0.2265" />
         <entry key="..\:/Users/ibrahim.hassani/AndroidStudioProjects/ContactsApp/app/src/main/res/layout/activity_add_contact.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/ibrahim.hassani/AndroidStudioProjects/ContactsApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>

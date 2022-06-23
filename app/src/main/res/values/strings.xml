@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Contacts App</string>
     <string name="create_new_contact">Create a new contact</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+    <string name="enter_a_website">Enter a website</string>
+    <string name="enter_an_address">Enter an address</string>
+    <string name="sad_face">Sad face</string>
+    <string name="neutral_face">Neutral face</string>
+    <string name="happy_face">Happy face</string>
 </resources>
